@@ -13,8 +13,7 @@ nav ul{
 }
 
 .logo{
-    margin-top: 50px;
-    margin-left: 100px;
+    margin: 50px 0px 50px 100px;
 }
 
 
@@ -43,7 +42,6 @@ nav ul{
     background-color: #4E47FF;
     border: none;
     border-radius: 10px;
-    margin-right: 150px;
-    margin-top: 50px;
+    margin:51.5px 150px 51.5px 0px;
 
 }
