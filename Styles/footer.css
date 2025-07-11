@@ -48,7 +48,7 @@ footer{
 }
 
 button:hover{
-    background-color:dodgerblue;
+    background-color:rgb(127, 255, 212);
     color:black;
     cursor: pointer;
     font-size: 18px;
