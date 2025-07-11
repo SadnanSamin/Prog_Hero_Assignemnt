@@ -22,7 +22,7 @@ main{
     width: 528px;
 }
 
-.form-sec input{
+.form-sec input[type = text] , input[type=email] {
     display: block;
     border-radius: 10px;
     width: 497px;
@@ -33,7 +33,7 @@ main{
     border: 1px solid #D6DDED;
 }
 
-.form-sec textarea{
+.form-sec textarea {
     display: block;
     border-radius: 10px;
     width: 465px;
@@ -42,8 +42,9 @@ main{
     font-size: 20px;
     color:rgba(0, 0, 0, 0.5) ;
     border: 1px solid #D6DDED;
-    font-weight: 400px;
 }
+
+
 
 .form-sec label{
     font-size: 18px;
@@ -62,9 +63,9 @@ main{
 input::placeholder {
     padding-left: 32px;
 }
-
-.form-sec textarea{
-    padding-left: 32px;
-    font-weight: 400;
+textarea{
     padding-top: 20px;
+    padding-left: 32px;
 }
+
+
