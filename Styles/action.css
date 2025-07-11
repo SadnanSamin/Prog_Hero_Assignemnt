@@ -4,7 +4,8 @@
     align-items: center;
     margin-top: 120px;
     gap: 250px;
-    width: 1500px;
+    /* width: 1500px; */
+    max-width: 1140px;
 }
 
 .description{
